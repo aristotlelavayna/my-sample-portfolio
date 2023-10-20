@@ -7,10 +7,14 @@
     object-fit: fill;
 }
 
+h1 {
+    color: white;
+    text-align: center;
+}
 
 .logo {
     position: relative;
-    left: 35%;
+    left: 38.5%;
 }
 
 .menu {
@@ -26,4 +30,10 @@
 
 .menu-links {
     list-style: none;
+    font-size:xx-large;
+}
+.link:hover,
+.link:focus {
+    color: red;
+    text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
 }
