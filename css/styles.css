@@ -90,16 +90,12 @@ p.school-caption {
     font-size: x-large;
     overflow-y: scroll;
     height: 80vh;
-    text-align:justify;
+    padding-left: 33%;
 }
 
-.company {
-    height: 2rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    list-style: none;
-    line-height: 3rem;
-    text-align: center;
+img {
     position: sticky;
     top: 0px;
+    border-radius: 3px;
+    line-height: 5rem;
 }
