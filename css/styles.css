@@ -60,7 +60,7 @@ p.school-caption {
     color: white;
     font-size: larger;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 10px;
 }
 
 .school-logo {
@@ -84,3 +84,6 @@ p.school-caption {
 .school-logo:hover .overlay {
     transform: translateY(0);
 }
+
+/* WORK-LINK SECTION */
+
