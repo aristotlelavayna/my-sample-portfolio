@@ -3,8 +3,9 @@
     width: 100%;
     height: 100%;
     background-size: cover;
-    background-repeat:space;
+    background-repeat: space;
     object-fit: fill;
+    color: white;
 }
 
 h1 {
