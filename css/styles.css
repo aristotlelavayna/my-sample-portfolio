@@ -48,13 +48,11 @@ h1 {
     list-style: none;
     justify-content: space-evenly;
     font-size: xx-large;
-    margin-bottom: 200px;
 }
 
 .schools {
     display: flex;
     justify-content: space-around;
-    
 }
 
 p.school-caption {
@@ -88,3 +86,20 @@ p.school-caption {
 
 /* WORK-LINK SECTION */
 
+.container {
+    font-size: x-large;
+    overflow-y: scroll;
+    height: 80vh;
+    text-align:justify;
+}
+
+.company {
+    height: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    list-style: none;
+    line-height: 3rem;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
