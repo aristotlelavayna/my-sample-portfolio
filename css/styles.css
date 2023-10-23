@@ -28,7 +28,7 @@ h1 {
       }
     
       100% {
-        transform: translatex(calc(90vh));
+        transform: translatex(calc(100% - 53vh));
       }
 }
 
